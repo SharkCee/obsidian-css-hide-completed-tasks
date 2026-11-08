@@ -1,0 +1,57 @@
+/*
+ Title: Hide Completed Tasks
+ Purpose: Easily hide completed tasks in Obsidian.
+
+ >>>>>
+
+ Author: CeeCee
+ GitHub Profile: https://github.com/SharkCee
+ Snippet Repo: https://github.com/SharkCee/obsidian-css-hide-completed-tasks
+
+ >>>>>
+
+ Compatibility:
+ - Themes: Default, Catpuccin.
+ - Community Plugins: Dataview (By Michael Brenan), Tasks (By obsidian-tasks-group).
+ - CSS: Modular CSS Layout / MCL (By Faiz Khuzaimah).
+
+ Please note that unless the native functionality of the Obsidian tasks is modified, there should not be any incompatibilities with any Themes, Plugins or CSS snippets.
+
+ >>>>>
+
+ Version 1.0.0 (08/11/2026)
+ - Published CSS snippets and initial details (e.g. compatibility)
+
+ >>>>
+
+ This work is under an MIT License.
+
+ Copyright (c) 2026 CeeCee
+
+ LICENSE: https://github.com/SharkCee/obsidian-css-hide-completed-tasks/edit/main/README.md
+
+ */
+
+.hide_completed_tasks_reading .task-list-item:is(
+  [data-task="x"],
+  [data-task="X"],
+  [data-task-status-name="Done"],
+  [data-task-status-type="DONE"])
+{
+  display: none;
+}
+
+.hide_completed_tasks :is(
+  .markdown-preview-view
+  .task-list-item:is(
+    [data-task="x"],
+    [data-task="X"],
+    [data-task-status-name="Done"],
+    [data-task-status-type="DONE"]),
+  .HyperMD-task-line:is(
+    [data-task="x"],
+    [data-task="X"])
+)
+{
+  display: none;
+}
