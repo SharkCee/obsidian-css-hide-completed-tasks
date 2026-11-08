@@ -1,11 +1,12 @@
 <div align="center">
-  
-<br><b>✅ Easily hide completed tasks in Obsidian</b></br>
+
+<br><img height="20" alt="Obsidian.md Logo" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/960px-2023_Obsidian_logo.svg.png?_=20230604143825"/><b>&nbsp;&nbsp;Easily hide completed tasks in Obsidian with HCT (<i>Hide Completed Tasks</i>)</b></br>
 <br>[💡 About](#-about)&nbsp;&nbsp;•&nbsp;&nbsp;[🌱 Getting Started](#-getting-started)&nbsp;&nbsp;•&nbsp;&nbsp;[🔧 Usage](#-usage)&nbsp;&nbsp;•&nbsp;&nbsp;[💭 Property Differences](#-property-differences)
 <br>[🫂 Contributing](#-contributing)&nbsp;&nbsp;•&nbsp;&nbsp;[📃 License](#-license)&nbsp;&nbsp;•&nbsp;&nbsp;[🦈 Support Me](#-support-me)</br>
   
-<br>![Release](https://img.shields.io/badge/Release-1.0.0-5BCEFA?style=for-the-badge&labelColor=555555&logo=github)&nbsp;&nbsp;&nbsp;![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/sharkcee/obsidian-css-hide-completed-tasks/total?style=for-the-badge&labelColor=E05780)
-&nbsp;&nbsp;&nbsp;![GitHub Repo stars](https://img.shields.io/github/stars/sharkcee/obsidian-css-hide-completed-tasks?style=for-the-badge&labelColor=FFFFFF)&nbsp;&nbsp;&nbsp;![license](https://img.shields.io/badge/license-MIT-E05780?style=for-the-badge&labelColor=555555)&nbsp;&nbsp;&nbsp;![Powered By](https://img.shields.io/badge/Powered%20By-Audhd%2C%20idk-5BCEFA?style=for-the-badge&labelColor=555555)
+<br>![Release](https://img.shields.io/badge/Release-1.0.0-5BCEFA?style=for-the-badge&labelColor=555555&logo=github)&nbsp;&nbsp;&nbsp;![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/sharkcee/obsidian-css-hide-completed-tasks/total?style=for-the-badge&labelColor=555555&color=E05780)
+&nbsp;&nbsp;&nbsp;![GitHub Repo stars](https://img.shields.io/github/stars/sharkcee/obsidian-css-hide-completed-tasks?style=for-the-badge&labelColor=555555&color=f0eff4)
+&nbsp;&nbsp;&nbsp;![license](https://img.shields.io/badge/license-MIT-E05780?style=for-the-badge&labelColor=555555)&nbsp;&nbsp;&nbsp;![Powered By](https://img.shields.io/badge/Powered%20By-Audhd%2C%20idk-5BCEFA?style=for-the-badge&labelColor=555555)
 </br>
 
 <hr>
